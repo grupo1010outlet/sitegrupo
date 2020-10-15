@@ -1,0 +1,91 @@
+button, p, h5, h4, .content, .contato, .field, .contat
+{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 10pt;
+}
+body 
+{
+    background-color:white; 
+    margin: 0 auto;
+}
+th 
+{
+    padding:3mm;
+}
+td 
+{
+    padding-left: 1cm;
+}
+img 
+{
+    margin: auto; 
+    display: block;
+}
+.menu
+{
+    width: 100%; 
+    padding: 2px; 
+    text-align: center;
+}
+.menu ul li 
+{
+    display:inline-block; 
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+.menu a 
+{ 
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 10pt; 
+    color: black;
+}
+.icone
+{
+    font-size:500px;
+    color: black;
+    margin-left:30px; 
+}
+.fita
+{
+    background: black; 
+    position:relative; 
+    width: 1350px; 
+    line-height:40px; 
+    height:40px;
+    text-align: center; 
+    font-weight:700; 
+    text-transform: uppercase; 
+    font-family:  'Montserrat', sans-serif; 
+    font-size: 10pt; 
+    color:#fff;
+}
+.content
+{
+    display:flex;
+    justify-content: center;
+}
+.contato
+{
+    width: 100%;
+    max-width:500px;
+}
+.form
+{
+    display:flex;
+    flex-direction: column;
+}
+.field
+{
+    padding:10px;
+    margin-bottom: 15px;
+    border:1px solid #DDD;
+    border-radius: 5px;
+}
+textarea
+{
+    height: 150px;
+}
+.contat
+{
+    padding: 10px;
+}
