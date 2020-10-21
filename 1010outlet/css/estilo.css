@@ -5,7 +5,7 @@ button, p, h5, h4, .content, .contato, .field, .contat
 }
 body 
 {
-    background-color:white; 
+    background-color: white; 
     margin: 0 auto;
 }
 th 
@@ -38,7 +38,9 @@ img
     font-family: 'Montserrat', sans-serif; 
     font-size: 10pt; 
     color: black;
+    text-decoration: none;
 }
+
 .icone
 {
     font-size:500px;
@@ -88,4 +90,11 @@ textarea
 .contat
 {
     padding: 10px;
+}
+.contat a
+{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 10pt; 
+    color: black;
+    text-decoration: none;
 }
